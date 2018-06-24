@@ -1,0 +1,6 @@
+[
+  "test_rest_calls.py::TestRestCalls::test_del",
+  "test_rest_calls.py::TestRestCalls::test_get",
+  "test_rest_calls.py::TestRestCalls::test_post",
+  "test_rest_calls.py::TestRestCalls::test_put"
+]
